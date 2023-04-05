@@ -7,6 +7,7 @@
         mc:Ignorable="d" Background="Coral"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
+        <TextBlock HorizontalAlignment="Center" VerticalAlignment="Top" FontWeight="Bold" FontSize="60" Text="CypherCrescent" Foreground="Blue"></TextBlock>
         <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="60" Text="SEPAL 3.0 Team" Foreground="Blue"></TextBlock>
     </Grid>
 </Window>
